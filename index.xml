@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xtdyplayer</title>
+    <link>https://xtdyplayer.github.io/</link>
+    <description>Recent content on xtdyplayer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jun 2022 21:10:34 +0800</lastBuildDate>
+    
+        <atom:link href="https://xtdyplayer.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstblog</title>
+      <link>https://xtdyplayer.github.io/post/firstblog/</link>
+      <pubDate>Mon, 27 Jun 2022 21:10:34 +0800</pubDate>
+      
+      <guid>https://xtdyplayer.github.io/post/firstblog/</guid>
+      
+        <description>&lt;p&gt;我遇到了很多问题，我请教了同学和老师，终于解决了！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
